@@ -10,22 +10,31 @@
     "estado": [
         "Santa Catarina",
         "Rio Grande do Sul",
-        "São Paulo"
+        "São Paulo",
+        "Acre",
+        "Roraima"
     ],
 
     "pais": [
         "Brasil",
         "Argentina",
-        "Uruguai"
+        "Uruguai",
+        "Italia",
+        "França"
     ],
     "cep": [
         "95560500",
         "85652000",
-        "90020020"
+        "90020020",
+        "20025200",
+        "54850052"
     ],
     "habitantes": [
         "50000",
+        "100000",
+        "200000",
         "800000",
         "1000000"
+
     ]
 }

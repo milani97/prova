@@ -9,7 +9,7 @@ const gerar = function(){
         "habitantes":dados.habitantes[parseInt(Math.random() * dados.habitantes.lenght)],
     }
 
-    lugar.mensagem = '${lugar.cidade} ${lugar.estado} ${lugar.pais}'
+    lugar.mensagem = '${lugar.cidade} ${lugar.estado} ${lugar.pais} ${lugar.cep} ${lugar.habitantes}'
 
     return lugar
 }

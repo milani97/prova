@@ -8,5 +8,5 @@ app.use(cors())
 app.use('/api', routes)
 
 app.listen(porta, function(){
-    console.log('Servidor rodando', porta)
+    console.log('Servidor rodando')
 })
