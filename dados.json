@@ -1,0 +1,31 @@
+{
+    "nome": [
+        "Criciuma",
+        "Torres",
+        "Florianópolis",
+        "São Paulo",
+        "Porto Alegre"
+    ],
+    
+    "estado": [
+        "Santa Catarina",
+        "Rio Grande do Sul",
+        "São Paulo"
+    ],
+
+    "pais": [
+        "Brasil",
+        "Argentina",
+        "Uruguai"
+    ],
+    "cep": [
+        "95560500",
+        "85652000",
+        "90020020"
+    ],
+    "habitantes": [
+        "50000",
+        "800000",
+        "1000000"
+    ]
+}
